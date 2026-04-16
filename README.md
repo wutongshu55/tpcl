@@ -19,3 +19,4 @@ gcc tpcl.c -o tpcl.exe -Wall -lm
 （./tpcl.exe 输入图片名称 输出图片名称）
 
 处理完成后，会生成 output.jpg，这就是处理后的图片。
+项目由ai生成
